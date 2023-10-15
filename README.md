@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Asfaq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div alight="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajaasfaq&label=Profile%20views&color=0e75b6&style=flat" alt="kajaasfaq" /> </p>
 
 <p align="right"> <a href="https://twitter.com/codewithasfaq" target="blank"><img src="https://img.shields.io/twitter/follow/codewithasfaq?logo=twitter&style=for-the-badge" alt="codewithasfaq" /></a> </p>
-
+</div>
 - 🌱 I’m currently learning **back-end development**
 
 - 💬 Ask me about **react,javascript,next**
