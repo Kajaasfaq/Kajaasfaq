@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Back-end development and DevOps<br><br>💬 Ask me about React, javascript, next<br><br>📫 How to reach me kajaasfaq2001@hotmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link
+🌱 I’m currently learning Back-end development and DevOps<br><br>💬 Ask me about React, Javascript, Next<br><br>📫 How to reach me kajaasfaq2001@gmail.com , kajaasfaq2001@hotmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link
 
 
 ## 🌐 Socials:
