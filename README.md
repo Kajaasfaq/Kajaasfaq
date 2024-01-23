@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Back-end development and DevOps<br><br>💬 Ask me about React, Javascript, Next<br><br>📫 How to reach me kajaasfaq2001@gmail.com , kajaasfaq2001@hotmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1OYcDBgi8T516qsB7Aqhdu1FcJQS7-u7Y/view?usp=drive_link
+🌱 I’m currently learning Back-end development and DevOps<br><br>💬 Ask me about React, Javascript, Next<br><br>📫 How to reach me kajaasfaq2001@gmail.com , kajaasfaq2001@hotmail.com<br><br>📄 Know about my experiences - Resume : https://drive.google.com/file/d/1OYcDBgi8T516qsB7Aqhdu1FcJQS7-u7Y/view?usp=drive_link
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo =Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itz_me_black_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-muthalif-asfaq/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/codewithasfaq) 
