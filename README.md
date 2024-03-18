@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **back-end development**
 
-- 💬 Ask me about **react,javascript,next**
+- 💬 Ask me about **React,Javascript,Next**
 
 - 📫 How to reach me [Email](kajaasfaq2001@gmail.com)
 
