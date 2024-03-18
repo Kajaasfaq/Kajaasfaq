@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,javascript,next**
 
-- 📫 How to reach me **kajaasfaq2001@hotmail.com**
+- 📫 How to reach me (Mail)[kajaasfaq2001@gmail.com]
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link](https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link)
 
