@@ -1,3 +1,6 @@
+<body style="background-color: black;">
+
+
 <h1 align="center">Hi 👋, I'm Asfaq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -21,4 +24,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+   
+</body>
 
+<style>
+body {
+    background-color: black;
+}
+</style>
+
+<!-- Your README content here -->
