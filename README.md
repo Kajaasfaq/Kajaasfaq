@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asfaq</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajaasfaq&label=Profile%20views&color=0e75b6&style=flat" alt="kajaasfaq" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **back-end development**
 
-- 💬 Ask me about **React,Javascript,Next**
+- 💬 Ask me about **React,Javascript,Next,AWS**
 
 - 📫 How to reach me [Email](kajaasfaq2001@gmail.com)
 
