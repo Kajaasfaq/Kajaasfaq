@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajaasfaq" alt="kajaasfaq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Assffaaqq" target="blank"><img src="https://img.shields.io/twitter/follow/codewithasfaq?logo=twitter&style=for-the-badge" alt="codewithasfaq" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Assffaaqq" target="blank"><img src="https://img.shields.io/twitter/follow/codewithasfaq?logo=twitter&style=for-the-badge" alt="Asfaq" /></a> </p>
 
 - 🌱 I’m currently learning **back-end development**
 
 - 💬 Ask me about **React,Javascript,Next,AWS**
 
-- 📫 How to reach me [Email](kajaasfaq2001@gmail.com)
+- 📫 How to reach me [Email](mailto:kajaasfaq2001@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link](https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codewithasfaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithasfaq" height="30" width="40" /></a>
+<a href="https://twitter.com/Assffaaqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithasfaq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-muthalif-asfaq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-muthalif-asfaq/" height="30" width="40" /></a>
 </p>
 
