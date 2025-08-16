@@ -9,11 +9,10 @@
 
 - 🌱 I’m currently learning **back-end development**
 
-- 💬 Ask me about **React,Javascript,Next,AWS**
+- 💬 Ask me about **React, JavaScript, Next, AWS, Java, Devops**
 
 - 📫 How to reach me [Email](mailto:kajaasfaq2001@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link](https://drive.google.com/file/d/1wE78_HxAfLLJGPZUQK4tqAYhum4J7HbE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
