@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/Assffaaqq" target="blank"><img src="https://img.shields.io/twitter/follow/codewithasfaq?logo=twitter&style=for-the-badge" alt="Asfaq" /></a> </p>
 
-- 🌱 I’m currently learning **back-end development**
+- 🌱 I’m currently learning **Full Stack development**
 
-- 💬 Ask me about **React, JavaScript, Next, AWS, Java, Devops**
+- 💬 Ask me about **React, JavaScript, Next, AWS, Java, Devops, Web Scraping, MERN Stack**
 
 - 📫 How to reach me [Email](mailto:kajaasfaq2001@gmail.com)
 
